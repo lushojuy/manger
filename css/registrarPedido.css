@@ -1,0 +1,80 @@
+#panelIzq{
+	width: 30%;
+	float: left;
+}
+#panelIzq a{
+	width: 190px;
+	height: 30px;
+	border:2px solid #FF0100;
+	background:#fff;
+	margin: 5px;
+	float: left;
+}
+#mallaFondo{
+	width: 100%;
+	float: left;
+	border:2px solid #FF0100;
+}
+#mallaFroSup{
+	width: 67%;
+	margin: 5px;
+	float: left;
+	border:2px solid #FF0100;
+}
+#supDer{
+	width: 30%;
+	margin: 5px;
+	float: left;
+	border:2px solid #FF0100;
+}
+#supIzq{
+	width: 98%;
+	margin: 5px;
+	float: left;
+	border:2px solid #FF0100;
+}
+#supIzq input{
+	float: left;
+	width: 99%;
+}
+#mallaFroInf{
+	float: left;
+	width: 100%;
+	height: auto;
+}
+#mallaFroInf h1{
+	text-align: center;
+}
+.alimento{
+	width: 100%;
+	height: auto;
+	float: left;
+	margin: 3px;
+}
+#infIzq{
+	margin: 5px;
+	float: left;
+	border:2px solid #FF0100;
+	width: 48%;
+}
+#infDer{
+	margin: 5px;
+	float: left;
+	border:2px solid #FF0100;
+	width: 48%;
+}
+.imgAli{
+	width: 100px;
+	height: 140px;
+	margin: 5px;
+	float: left;
+	border:2px solid #FF0100;
+	text-align: center;
+}
+
+img.pequenia{
+	padding-top: 10px;
+	margin: 3px;
+	max-width: 70px;
+	max-height: 70px;
+}

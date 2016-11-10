@@ -1,0 +1,21 @@
+#loginIndexPadre{
+	width: 200px;
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	background-url: http://api.thumbr.it/whitenoise-361x370.png?background=4ea6caff&noise=626262&density=63&opacity=50
+}
+.loginIndexHijo {
+ 	width: 200px;
+}
+.round-a-gray{
+background:#444444 url(img/round_gray-left.png) left top no-repeat;
+color:#FFFFFF;
+text-align:center;
+}
+.round-a-gray div{
+background:url(img/round_gray-right.png) right bottom no-repeat;
+padding:4px;
+}

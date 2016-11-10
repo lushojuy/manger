@@ -1,0 +1,67 @@
+#registrousuario {
+	background:transparent url(../../../DOCUME~1/BETOCU~1/CONFIG~1/Temp/images/bgfieldset.jpg) no-repeat scroll left top;
+	border:medium none;
+	color:#333333;
+	height:700px;
+	width:515px;
+	padding:30px 0 0 30px;
+}
+
+#registrousuario legend {
+	color:#333333;
+	font-family:arial;
+	font-size:40px;
+	letter-spacing:-1px;
+	padding-bottom:10px;
+	padding-top:0px;
+	text-transform:capitalize;
+	font-family:Comfortaa;
+	font-weight:bold;
+}
+
+#registrousuario input.texto {
+	background:#FFFFFF url(../../../DOCUME~1/BETOCU~1/CONFIG~1/Temp/images/bginputtexto.gif) no-repeat scroll left top;
+	border:medium none !important;
+	color:#666;
+	font-size:15px;
+	height:24px;
+	padding-bottom:0;
+	padding-left:5px;
+	padding-top:0px;
+	width:454px;
+	font-family: Comfortaa;
+}
+
+#registrousuario textarea.areadetexto {
+	background: #ffffff url(../../../DOCUME~1/BETOCU~1/CONFIG~1/Temp/images/bgtextarea.gif) no-repeat scroll top left;
+	width: 454px;
+	height: 212px;
+	border:none !important;
+	padding-bottom:0;
+	padding-left:5px;
+	padding-top:5px;
+	color:#666;
+	font-size:15px;
+	font-family:arial,sans-serif;
+}
+
+#registrousuario label {
+	display:block;
+	font-family: Comfortaa;
+	font-size:14px;
+	padding:10px 0 3px;
+}
+
+#registrousuario input.botonenviar {
+	background:transparent url(../../../DOCUME~1/BETOCU~1/CONFIG~1/Temp/images/bgbotonenviar.gif) no-repeat scroll left top;
+	border:medium none !important;
+	color:#FFFFFF;
+	display:block;
+	float:left;
+	font-family:arial,sans-serif;
+	height:30px;
+	margin-left:360px;
+	margin-top:20px;
+	text-align:center;
+	width:99px;
+}
